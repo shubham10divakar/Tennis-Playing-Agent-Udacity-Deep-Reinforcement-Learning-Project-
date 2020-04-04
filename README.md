@@ -1,5 +1,6 @@
 # tennis
-Udacity deep reinforcement learning multi-agent tennis project
+Udacity deep reinforcement learning multi-agent tennis project. below is the link to the blog.
+https://medium.com/@shubham.divakar/training-a-tennis-playing-agent-5c2baa37f941
 
 </br>
 
